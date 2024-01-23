@@ -1,0 +1,3 @@
+halaman
+
+<a href="reservasi.php?id=<?=$data['id_kamar']?>">
